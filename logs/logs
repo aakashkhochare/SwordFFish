@@ -1,0 +1,16 @@
+#  SIGSEGV (0xb) at pc=0x00007f413ca60dd1, pid=578, tid=0x00007f413e1497004/attem
+#
+# JRE version: OpenJDK Runtime Environment (8.0_121-b13) (build 1.8.0_121-8u121-b13-0ubuntu1.16.04.2-b13)
+# Java VM: OpenJDK 64-Bit Server VM (25.121-b13 mixed mode linux-amd64 compressed oops)
+# Problematic frame:
+# V  [libjvm.so+0x66fdd1]
+#
+# Core dump written. Default location: /tmp/hadoop-root/bsp/local/groomServer/attempt_201704272121_0004_000002_0/work/core or core.578
+#
+# An error report file with more information is saved as:
+# /tmp/hadoop-root/bsp/local/groomServer/attempt_201704272121_0004_000002_0/work/hs_err_pid578.log
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.java.com/bugreport/crash.jsp
+#
+
